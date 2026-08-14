@@ -1,0 +1,5 @@
+name: astrbot_plugin_qq_like_tools
+version: 1.0.0
+author: 枝动力
+description: QQ 点赞工具插件 - 给指定QQ用户点赞，每次点赞50个，今天已点赞的用户不能再点赞
+repo: https://github.com/strbot/astrbot_plugin_qq_like_tools
