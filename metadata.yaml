@@ -2,4 +2,4 @@ name: astrbot_plugin_qq_like_tools
 version: 1.0.0
 author: 枝动力
 description: QQ 点赞工具插件 - 通过 NapCat HTTP API 给指定QQ用户点赞，每次点赞10个，今天已点赞的用户不能再点赞
-repo: https://github.com/strbot/astrbot_plugin_qq_like_tools
+repo: https://github.com/Zhidongli-A/astrbot_plugin_qq_like_tools
