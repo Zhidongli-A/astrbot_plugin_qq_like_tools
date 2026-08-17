@@ -1,0 +1,14 @@
+{
+  "napcat_url": {
+    "description": "NapCat HTTP API 地址，例如 http://127.0.0.1:3000",
+    "type": "string",
+    "hint": "NapCat 的 HTTP 服务地址，不需要带 /send_like 路径，插件会自动拼接。请确保 NapCat 已开启 HTTP 服务。",
+    "default": "http://127.0.0.1:3000"
+  },
+  "napcat_token": {
+    "description": "NapCat Access Token（可选）",
+    "type": "string",
+    "hint": "如果 NapCat 配置了 access_token，这里填写对应的 token。留空则不携带 Authorization 头。",
+    "default": ""
+  }
+}
